@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+
+# Redirection vers HTTPS
+RewriteCond %{SERVER_PORT} ^80$ [OR]
+RewriteCond %{HTTPS} =off
+RewriteRule ^(.*)$ https://aksam-assurances.fr/$1 [R=301,L]
+
+# Redirection du www vers non-www en HTTPS
+RewriteCond %{HTTP_HOST} ^www\.aksam-assurances.fr [NC]
+RewriteRule ^(.*)$ https://aksam-assurances.fr/$1 [R=301,L]
+
+
+    RewriteEngine On
+    
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+# This code to forcing php version from 8.1 to 8.0 version
+<FilesMatch ".(?:html|php)$">
+SetHandler application/x-lsphp80
+</FilesMatch>

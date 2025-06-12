@@ -1,0 +1,12 @@
+[02-Mar-2025 13:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aksalocx/lassurance-des-transporteurs.fr/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aksalocx/lassurance-des-transporteurs.fr/config/cache.php on line 18
+[02-Mar-2025 13:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aksalocx/lassurance-des-transporteurs.fr/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aksalocx/lassurance-des-transporteurs.fr/config/cache.php on line 18
+[29-Mar-2025 11:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/config/app.php on line 16

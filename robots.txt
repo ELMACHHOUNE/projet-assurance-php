@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://retraite-complementaire.aksam-assurances.fr/sitemap.xml

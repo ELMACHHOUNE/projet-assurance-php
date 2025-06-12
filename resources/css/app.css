@@ -1,0 +1,334 @@
+@import "~font-awesome/css/font-awesome";
+
+html {
+    overflow-x: hidden !important;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* CLASS NAVBAR*/
+.navlogo {
+    height: auto;
+    background-color: #367e41;
+    width: 100%;
+    color: white;
+}
+
+/* CLASS Titre in Assurance auto résilié !*/
+.titre {
+    padding-top: 5%;
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+    color: #367e41;
+    font-weight: 900;
+}
+
+/* head in form !*/
+.card-header {
+    background-color: #367e41;
+    color: white;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* body in form !*/
+.card-body {
+    background-color: white;
+}
+
+/*Anime text in navbar */
+
+.letters {
+    display: inline-block;
+    padding-right: 0.05em;
+    padding-top: 0.1em;
+    overflow: hidden;
+    font-weight: 900;
+    font-size: 0.9em;
+}
+
+/*Anime text in navbar */
+
+/*icon telephone */
+
+.icontele {
+    color: white !important;
+}
+
+.form-row>div {
+    margin-bottom: 15px;
+    /* Vous pouvez ajuster la valeur selon l'espacement souhaité */
+}
+
+/*le  telephone */
+
+.tele {
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* head in form !*/
+
+.card-header {
+    background-color: #367e41 !important;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+/* body in form !*/
+
+.card-body {
+    background-color: white;
+}
+
+/* input form  !*/
+
+.form-row {
+    display: block;
+    width: 100%;
+}
+
+.containerjumbotron {
+    min-width: 100%;
+}
+
+.jumbotron {
+    background-color: white !important;
+}
+
+::placeholder {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black !important;
+}
+
+#myselect00,
+#myselect0,
+#myselect1,
+#myselect2,
+#myselect001 {
+    height: 38px !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.formtext {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 10px;
+}
+
+.mybutton {
+    margin-left: 10%;
+    width: 120%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #367e41;
+    border: none;
+    color: white;
+    height: 50px;
+    border-radius: 10%;
+}
+
+.mybutton:hover {
+    color: #367e41;
+    background-color: white;
+}
+
+.jumbotronresilie {
+    background-color: white;
+    height: 80%;
+}
+
+/*Zone success apres validation de formulaire container */
+
+.jumbotronresilie .container {
+    text-align: center;
+}
+
+/*Zone success apres validation de formulaire le message apparait */
+
+.sucessmsg {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(6, 6, 6);
+}
+
+/*Zone pour revenir page d'acceuil apres validation de formulaire le message apparait */
+
+.msgre a {
+    color: blue;
+}
+
+/*Zone pour revenir page d'acceuil apres validation de formulaire le message apparait */
+
+.msgre a:hover {
+    text-decoration: underline;
+}
+
+.containerjumbotron {
+    max-width: 100%;
+}
+
+.fa {
+    color: black;
+    font-size: 20px !important;
+}
+
+/*titre pour les texte */
+
+.titreindex {
+    font-family: "Century Gothic";
+    color: #367e41;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.titreindex1 {
+    font-family: "Century Gothic";
+    color: #367e41;
+    font-size: 17px;
+
+}
+
+.contenuindex1 {
+    font-family: "Century Gothic";
+    color: #367e41;
+}
+
+/*contenu pour les texte */
+
+.contenuindex {
+    font-family: "Century Gothic";
+    color: black;
+}
+
+/* footer page*/
+
+#myfooter {
+    background-color: #367e41;
+    color: white;
+}
+
+footer .aksam {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+@media (min-width: 1024px) {
+    .myicon {
+        position: absolute;
+        left: 10%;
+    }
+}
+
+@media (max-width: 992px) {
+    .overlay {
+        display: none;
+    }
+
+    .colshow {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) {
+    .imageform {
+        height: 695px;
+    }
+
+    .card {
+        height: 750px;
+    }
+}
+
+@media(max-width:767px) {
+    .myicon {
+        text-align: center;
+    }
+}
+
+.mypadding0 {
+    padding: 0;
+}
+
+
+.boldlist {
+    font-weight: bold;
+}
+
+
+
+
+.titrePage {
+    color: #367e41;
+    font-family: "Century Gothic";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+@media(max-width:767px) {
+    .mypadding0 {
+        padding-top: 10%;
+    }
+}
+
+/*Anime text in navbar */
+.ml10 {
+    font-weight: 900;
+    font-size: 1em;
+}
+
+.ml10 .text-wrapper {
+    display: inline-block;
+
+    padding-right: 0.05em;
+    padding-top: 0.1em;
+    overflow: hidden;
+}
+
+.ml10 .letter {
+    display: inline-block;
+    line-height: 1em;
+    transform-origin: 0 0;
+}
+
+/*list s'affiche sur un grand screen */
+@media screen and (min-width: 1000px) {
+    .listindex {
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        font-size: 12px;
+        list-style: circle;
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+        -webkit-column-width: 50%;
+        -moz-column-width: 50%;
+        column-width: 50%;
+        -webkit-column-gap: 4em;
+        -moz-column-gap: 4em;
+        column-gap: 4em;
+    }
+}
+
+/*Anime text in navbar */

@@ -1,0 +1,660 @@
+[27-Jul-2021 21:49:40 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:49:40 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:49:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:49:42 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:49:42 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:49:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:06 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:06 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:08 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:08 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:51:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:31 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:31 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:33 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:33 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:52:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:12 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:12 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:18 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:18 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:53:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:56:32 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:56:32 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 21:56:32 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:02:18 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:02:18 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:02:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:10:01 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:10:01 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:10:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:11:31 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:11:31 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:11:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:13:52 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:13:52 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:13:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:15:19 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:15:19 UTC] PHP Warning:  require(/home/assuifaj/public_html./vendor/autoload.php): failed to open stream: No such file or directory in /home/assuifaj/public_html/index.php on line 34
+[27-Jul-2021 22:15:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/assuifaj/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/assuifaj/public_html/index.php on line 34
+[12-Sep-2024 14:46:49 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[12-Sep-2024 14:46:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[12-Sep-2024 20:07:17 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[12-Sep-2024 20:07:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[13-Sep-2024 07:03:50 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[13-Sep-2024 07:03:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[14-Sep-2024 03:23:33 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[14-Sep-2024 03:23:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[01-Oct-2024 20:17:03 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[01-Oct-2024 20:17:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[03-Oct-2024 05:20:22 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[03-Oct-2024 05:20:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[19-Mar-2025 19:11:55 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[19-Mar-2025 19:11:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[19-Mar-2025 22:41:05 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[19-Mar-2025 22:41:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[26-Mar-2025 19:57:39 UTC] PHP Warning:  require_once(/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php): failed to open stream: No such file or directory in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[26-Mar-2025 19:57:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/aksalocx/lassurance-des-transporteurs.fr/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aksalocx/lassurance-des-transporteurs.fr/server.php on line 21
+[20-Apr-2025 05:40:21 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[20-Apr-2025 05:40:21 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[20-Apr-2025 05:40:21 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[20-Apr-2025 06:34:02 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[20-Apr-2025 06:34:02 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[20-Apr-2025 06:34:02 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:04:44 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:49:54 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:49:58 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:00 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:03 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:04 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:04 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:04 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:05 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:05 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:05 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 09:50:05 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:09 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:10 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:11 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:11 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:11 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:12 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:12 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:12 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:12 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:15 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:17 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:17 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:02:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:37:36 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:42:17 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:42:17 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:42:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:42:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:42:18 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
+[22-Apr-2025 10:47:04 Africa/Casablanca] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1401
+Stack trace:
+#0 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(444): include('/home/aksalocx/...')
+#2 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(152): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/aksalocx/retraite-complementaire.aksam-assurances.fr/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/aksalocx/retraite-complementaire.aksam-assurances.fr/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 11
