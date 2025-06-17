@@ -100,7 +100,5 @@
 </div>
 
 <br><br>
-@include('layout.bas-page')
-
 
 @stop
