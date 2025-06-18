@@ -24,7 +24,7 @@
               class="order-2 lg:order-1 lg:col-span-2 relative flex justify-center items-center rounded-xl shadow-2xl overflow-hidden"
             >
               <img
-                src="./assets/assurance_retraite.jpg"
+                src="./assets/assurance_retraite.png"
                 alt="Couple souriant et satisfait tenant un relevé de pension"
                 class="w-full h-full object-cover"
               />
