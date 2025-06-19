@@ -29,22 +29,7 @@
                 class="w-full h-full object-cover"
               />
 
-              <!-- Text content overlay on image -->
-              <div
-                class="absolute inset-0 flex flex-col justify-end items-center text-white text-center p-8 bg-gradient-to-t from-black/70 to-transparent"
-              >
-                <div class="inline-block p-2 rounded-lg bg-black/5">
-                  <h1
-                    class="text-xl md:text-3xl font-extrabold mb-3 leading-tight drop-shadow-md"
-                  >
-                    Sécurisez votre avenir avec notre<br />
-                    <span class="text-white bg-secondary/50 px-1 rounded-md"
-                      >assurance retraite</span
-                    >
-                  </h1>
-                </div>
-              </div>
-            </div>
+              
 
             <!-- Right side - Form -->
             <div
