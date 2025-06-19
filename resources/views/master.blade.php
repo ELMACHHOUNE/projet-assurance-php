@@ -308,17 +308,35 @@ document.addEventListener("DOMContentLoaded", function () {
             // Remove the cursor initially
             cursor.style.display = "none";
 
-            // Create the typing animation
             let i = 0;
-            function typeWriter() {
-            if (i < text.length) {
-                typingText.textContent += text.charAt(i);
-                i++;
-                setTimeout(typeWriter, 20); // Faster typing speed (reduced from 50ms to 20ms)
-            } else {
-                cursor.style.display = "inline-block";
-            }
-            }
+        let isErasing = false;
+        const typingSpeed = 20;
+        const erasingSpeed = 10;
+        const delayAfterTyping = 800;
+        const delayAfterErasing = 500;
+
+        function typeWriter() {
+          if (!isErasing && i < text.length) {
+            typingText.textContent += text.charAt(i);
+            i++;
+            setTimeout(typeWriter, typingSpeed);
+          } else if (!isErasing && i === text.length) {
+            cursor.style.display = "inline-block";
+            setTimeout(() => {
+              isErasing = true;
+              cursor.style.display = "none";
+              setTimeout(typeWriter, delayAfterTyping);
+            }, delayAfterTyping);
+          } else if (isErasing && i > 0) {
+            typingText.textContent = text.substring(0, i - 1);
+            i--;
+            setTimeout(typeWriter, erasingSpeed);
+          } else if (isErasing && i === 0) {
+            isErasing = false;
+            cursor.style.display = "none";
+            setTimeout(typeWriter, delayAfterErasing);
+          }
+        }
 
             // Start typing animation
             typeWriter();
