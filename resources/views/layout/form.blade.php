@@ -3,7 +3,7 @@
 
 <main id="simulation" class="w-full">
       <!-- Hero Section -->
-      <section class="relative w-full min-h-screen flex items-center">
+      <section class="relative w-full min-h-screen">
         <div class="absolute inset-0 w-full h-full">
           <video
             src="./assets/retraite.mp4"
@@ -18,7 +18,7 @@
           ></div>
         </div>
         <div
-          class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-14"
+          class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 py-16 h-full flex items-center"
         >
           <div
             class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch w-full min-h-[600px] lg:min-h-[700px]"
@@ -28,7 +28,7 @@
               class="order-2 lg:order-1 lg:col-span-2 relative flex justify-center items-center rounded-xl shadow-2xl overflow-hidden h-full"
             >
               <img
-                src="./assets/assurance_retraite.png"
+                src="./assets/assurance-flotte-entreprise.webp"
                 alt="Couple souriant et satisfait tenant un relevé de pension"
                 class="w-full h-full object-cover"
               />
@@ -62,7 +62,7 @@
                       d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"
                     />
                   </svg>
-                  Complétez ce formulaire pour obtenir une simulation
+                  Complétez ce formulaire pour obtenir un tarif
                 </h3>
               </div>
               <div class="p-6 flex-1 flex flex-col">
@@ -74,105 +74,121 @@
                   <!-- Personal Info -->
                   <div class="flex-1 space-y-3">
                     <div>
-                      <label
-                        for="nom"
-                        class="block text-sm font-medium text-gray-700 mb-1"
-                        >Nom :</label
-                      >
                       <input
                         type="text"
                         name="nom"
                         id="nom"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                        placeholder="Votre nom..."
+                        placeholder="Nom..."
                       />
                     </div>
 
                     <div>
-                      <label
-                        for="prenom"
-                        class="block text-sm font-medium text-gray-700 mb-1"
-                        >Prénom :</label
-                      >
                       <input
                         type="text"
                         name="prenom"
                         id="prenom"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                        placeholder="Votre prénom..."
+                        placeholder="Prénom..."
                       />
                     </div>
 
                     <div>
-                      <label
-                        for="brithAt"
-                        class="block text-sm font-medium text-gray-700 mb-1"
-                        >Date de naissance :</label
-                      >
                       <input
-                        type="date"
-                        name="brithAt"
-                        id="brithAt"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        type="text"
+                        name="raison_sociale"
+                        id="raison_sociale"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Raison sociale..."
+                      />
+                    </div>
+
+                    <div>
+                      <input
+                        type="text"
+                        name="activite1"
+                        id="activite1"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Activité..."
                       />
                     </div>
 
                     <div>
                       <select
-                        name="lastAssure"
-                        aria-label="Montant mensuel à épargner"
+                        id="myselect00"
+                        name="activite"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        title="Démarrage d'activité"
                       >
-                        <option value="" selected>
-                          Montant mensuel à épargner :
-                        </option>
-                        <option value="50€">50€</option>
-                        <option value="100€">100€</option>
-                        <option value="150€">150€</option>
-                        <option value="200€">200€</option>
-                        <option value="250€">250€</option>
-                        <option value="300€">300€</option>
-                        <option value="350€">350€</option>
-                        <option value="400€">400€</option>
-                        <option value="450€">450€</option>
-                        <option value="500€">500€</option>
+                        <option value="" selected>Démarrage d'activité</option>
+                        <option value="OUI">OUI</option>
+                        <option value="NON">NON</option>
                       </select>
                     </div>
 
                     <div>
                       <select
+                        id="myselect0"
                         name="assure"
-                        aria-label="Age souhaité départ à la retraite"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        title="Flotte assuré actuellement"
                       >
                         <option value="" selected>
-                          Age souhaité départ à la retraite :
+                          Flotte assuré actuellement
                         </option>
-                        <option value="60">60 ans</option>
-                        <option value="61">61 ans</option>
-                        <option value="62">62 ans</option>
-                        <option value="63">63 ans</option>
-                        <option value="64">64 ans</option>
-                        <option value="65">65 ans</option>
+                        <option value="OUI">OUI</option>
+                        <option value="NON">NON</option>
                       </select>
                     </div>
 
                     <div>
                       <select
-                        name="gender"
-                        aria-label="Civilité"
+                        id="myselect1"
+                        name="ancienne"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        title="Assurance résilié"
                       >
-                        <option value="" selected>Civilité :</option>
-                        <option value="1">Mr</option>
-                        <option value="2">Mme</option>
+                        <option value="" selected>Assurance résilié</option>
+                        <option value="OUI">OUI</option>
+                        <option value="NON">NON</option>
                       </select>
                     </div>
 
-                    <!-- Contact Info -->
+                    <div id="motif-container">
+                      <select
+                        id="myselect2"
+                        name="motif"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        title="Motif résiliation"
+                      >
+                        <option value="" selected>Motif résiliation</option>
+                        <option value="Sinistre">Sinistre</option>
+                        <option value="Non paiement">Non paiement</option>
+                        <option value="Suspension de permis">
+                          Suspension de permis
+                        </option>
+                        <option value="Fausse déclaration">
+                          Fausse déclaration
+                        </option>
+                        <option value="Echéance">Echéance</option>
+                      </select>
+                    </div>
+
+                    <div>
+                      <input
+                        type="text"
+                        id="code"
+                        name="code"
+                        maxlength="5"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Code Postal..."
+                      />
+                    </div>
+
                     <div>
                       <input
                         type="email"
+                        id="email"
                         name="email"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
                         placeholder="Email..."
@@ -181,18 +197,14 @@
 
                     <div>
                       <input
-                        type="tel"
+                        type="text"
+                        id="tele"
                         name="tele"
-                        pattern="[0-9]{10}"
                         maxlength="10"
                         class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
                         placeholder="Téléphone..."
                       />
                     </div>
-
-                    <!-- Additional Info -->
-
-                    <!-- Retirement Info -->
 
                     <p
                       class="text-[10px] text-gray-600 bg-white/80 p-2 rounded-md border border-gray-200"
@@ -237,113 +249,130 @@
         <section id="assurance-info" class="scroll-mt-20">
           <div class="bg-white rounded-xl shadow-xl p-8">
             <h2 class="text-2xl md:text-3xl font-bold text-primary mb-6">
-              I.Assurance épargne retraite
+              Assurance flotte
             </h2>
+            <h3 class="text-xl font-bold text-primary mb-4">
+              1. Assurance flotte automobile
+            </h3>
             <p class="text-base md:text-lg text-gray-700 mb-8">
-              L'assurance retraite complémentaire est un contrat d'assurance qui
-              permet à un individu de se constituer une rente ou un capital
-              supplémentaire pour compléter sa pension de retraite de base. Elle
-              est généralement souscrite à titre individuel ou proposée par
-              l'employeur dans le cadre d'un dispositif collectif.
+              L'assurance flotte automobile est un contrat d'assurance unique
+              dédié aux assurés propriétaires d'un parc automobile composé d'au
+              moins 5 véhicules à moteur.
+            </p>
+            <p class="text-base md:text-lg text-gray-700 mb-8">
+              Appelé aussi contrat assurance parc automobile, le fait de
+              regrouper tous les véhicules sous une même assurance permettent
+              d'économiser jusqu'à 30% sur la cotisation totale de l'assurance
+              du parc automobile mais aussi être dispensé d'indiquer à
+              l'assureur les noms des conducteurs salariés et/intérimaire de
+              l'entreprise.
             </p>
 
             <h3 class="text-xl font-bold text-primary mb-4">
-              1.Qu'est-ce que le PER
+              2. Assurance flotte véhicule
             </h3>
-            <p class="text-base text-gray-700 mb-8">
-              Le PER est un produit d'épargne à long terme lancé en 2019 pour
-              préparer sa retraite. Il remplace les anciens dispositifs comme le
-              PERP ou Madelin. L'argent est généralement bloqué jusqu'à la
-              retraite (sans exceptions).
+            <p class="text-base text-gray-700 mb-4">
+              Il existe 2 types de contrats d'assurance flotte véhicule :
             </p>
-
-            <h3 class="text-xl font-bold text-primary mb-4">
-              2.Les 3 types de PER:
-            </h3>
             <ul
               class="list-disc list-inside space-y-2 text-base text-gray-700 mb-8"
             >
               <li>
-                <strong>PER individuel (PERI) :</strong> ouvert par tout
-                particulier.
+                <strong>Contrat assurance flotte véhicule ouvert :</strong> dans
+                ce cas le nombre et les caractéristiques des véhicules assurés
+                ne sont pas connus. Ce type de contrat concerne le plus souvent
+                les grosses flottes automobiles (par exemple, supérieure à 50
+                véhicules).
               </li>
               <li>
-                <strong>PER d'entreprise obligatoire :</strong> mis en place par
-                l'employeur.
-              </li>
-              <li>
-                <strong>PER collectif (PERCOL) :</strong> accessible via
-                l'entreprise, mais facultatif.
+                <strong>Contrat assurance flotte véhicule fermé :</strong> dans
+                ce cas, le nombre et les caractéristiques des véhicules sont
+                connues et quand un nouveau véhicule est inclus dans le contrat,
+                la cotisation augmente.
               </li>
             </ul>
 
+            <h2 class="text-2xl md:text-3xl font-bold text-primary mb-6">
+              Assurance flotte professionnel
+            </h2>
+
             <h3 class="text-xl font-bold text-primary mb-4">
-              3.Que peut-on y mettre
+              1. Assurance flotte automobile professionnelle
             </h3>
             <p class="text-base text-gray-700 mb-8">
-              Les versements peuvent être déduits du revenu imposable, dans la
-              limite :
+              Toute entreprise et quelle que soit son activité principale ou
+              annexe, disposant d'un par de véhicule à moteur est amené à
+              souscrire un contrat d'assurance flotte pro. La principale
+              caractéristique de ce contrat est que le coefficient bonus-malus
+              ne rentre pas en considération pour le calcul de la cotisation.
+            </p>
+            <p class="text-base text-gray-700 mb-8">
+              En effet dans le cas d'une assurance flotte véhicule entreprise
+              les conducteurs des véhicules ne sont pas désignés. En parle de
+              contrat en tout conducteur.
             </p>
 
             <h3 class="text-xl font-bold text-primary mb-4">
-              4.Avantage fiscal à l'entrée
+              2. Assurance flotte véhicule entreprise
             </h3>
-            <p class="text-base text-gray-700">
-              Des actions, ETF, fonds en euros, private equity, etc. Grande
-              liberté de choix pour construire son portefeuille.
+            <p class="text-base text-gray-700 mb-4">
+              Les garanties incluses dans le contrat d'assurance flotte pour
+              entreprise sont:
             </p>
             <ul
               class="list-disc list-inside space-y-2 text-base text-gray-700 mb-8"
             >
-              <li>10% des revenus nets (max 35 194 € pour salariés)</li>
-              <li>Jusqu'à 85 780 € pour les indépendants (TNS)</li>
+              <li>Dommages aux biens</li>
+              <li>Responsabilité civile</li>
+              <li>Assistance</li>
+              <li>Remboursement « valeur à neuf »</li>
+              <li>Versement d'indemnités journalière</li>
+              <li>Prise en charge panne mécanique</li>
+              <li>Bris de glaces</li>
+              <li>Défense et recours</li>
             </ul>
-            <p class="text-base text-gray-700 mb-8">
-              Plus votre impôt est élevé, plus le PER est avantageux
-            </p>
 
             <h3 class="text-xl font-bold text-primary mb-4">
-              5.Fiscalité à la sortie
+              Devis assurance flotte professionnel
             </h3>
+            <p class="text-base text-gray-700 mb-4">
+              Pour obtenir un devis assurance flotte professionnel il faudra
+              communiquer à l'assureur les éléments suivants :
+            </p>
             <ul
               class="list-disc list-inside space-y-2 text-base text-gray-700 mb-8"
             >
               <li>
-                Le capital est imposé (revenu + flat tax sur les plus-values).
+                Etat de parc reprenant l'ensembles des véhicules à assurer avec
+                leurs statistiques sinistres
               </li>
               <li>
-                La rente viagère est fiscalement moins intéressante que la
-                sortie en capital.
+                Antécédents d'assurance afin de déterminer le motif de
+                résiliations de l'ancienne assurance
               </li>
+              <li>KBIS de la société</li>
             </ul>
-
-            <h3 class="text-xl font-bold text-primary mb-4">6.En résumé</h3>
-            <p class="text-base text-gray-700">
-              Le PER est très pertinent pour les contribuables fortement
-              imposés**, surtout les indépendants. Il permet d'optimiser sa
-              retraite grâce à **l'effet de levier fiscal**, mais il faut bien
-              comprendre la fiscalité et choisir un contrat peu chargé en frais.
-            </p>
           </div>
         </section>
 
         <!-- Avantages Section -->
         <section id="avantages" class="scroll-mt-20 text-center mb-8">
           <h2 class="text-2xl md:text-3xl font-bold text-primary mb-8">
-            Devis assurance épargne retraite
+            Devis assurance flotte automobile
           </h2>
           <div class="bg-white rounded-3xl shadow-xl p-8">
             <div class="space-y-6">
               <p class="text-base text-gray-700">
-                Compléter le formulaire à la droite de cette page afin d'obtenir
-                une étude pour un plan d'épargne retraite adapté à votre
-                situation et vos revenus.
+                Complétez le formulaire ci-dessus pour obtenir une étude
+                personnalisée de votre assurance flotte automobile. Notre équipe
+                analysera vos besoins spécifiques et vous proposera la meilleure
+                solution adaptée à votre parc de véhicules.
               </p>
               <a
                 href="#simulation"
                 class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-gradient-to-r from-accent to-accent/80 hover:from-accent/90 hover:to-accent/70 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 fresh-up-button"
               >
-                Commencer ma simulation
+                Obtenir mon tarif
                 <svg
                   class="w-5 h-5 ml-2"
                   fill="none"

@@ -20,7 +20,7 @@
                         <br>
                         <br>
                         <br>
-                        <p class="msgre"><a href="https://retraite-complementaire.aksam-assurances.fr/">Revenir à l'accueil</a></p>
+                        <p class="msgre"><a href="https://assurance-flotte-entreprise.aksam-assurances.fr">Revenir à l'accueil</a></p>
                     </div>
                 </div>
             </div>
@@ -34,6 +34,6 @@
 
 @else
 <script>
-    window.location = "https://retraite-complementaire.aksam-assurances.fr/";
+    window.location = "https://assurance-flotte-entreprise.aksam-assurances.fr";
 </script>
 @endif
