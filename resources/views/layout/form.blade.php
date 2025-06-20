@@ -18,7 +18,7 @@
           ></div>
         </div>
         <div
-          class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 py-16 h-full flex items-center"
+          class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-14"
         >
           <div
             class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch w-full min-h-[600px] lg:min-h-[700px]"
