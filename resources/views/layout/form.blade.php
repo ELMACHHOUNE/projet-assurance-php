@@ -3,7 +3,7 @@
 
 <main id="simulation" class="w-full">
       <!-- Hero Section -->
-      <section class="relative w-full min-h-screen">
+      <section class="relative w-full min-h-screen flex items-center">
         <div class="absolute inset-0 w-full h-full">
           <video
             src="./assets/retraite.mp4"
@@ -17,11 +17,15 @@
             class="absolute inset-0 bg-gradient-to-r from-primary/95 to-accent/80"
           ></div>
         </div>
-        <div class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 py-16">
-          <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
+        <div
+          class="relative z-10 max-w mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-14"
+        >
+          <div
+            class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch w-full min-h-[600px] lg:min-h-[700px]"
+          >
             <!-- Left side: Image and Text -->
             <div
-              class="order-2 lg:order-1 lg:col-span-2 relative flex justify-center items-center rounded-xl shadow-2xl overflow-hidden"
+              class="order-2 lg:order-1 lg:col-span-2 relative flex justify-center items-center rounded-xl shadow-2xl overflow-hidden h-full"
             >
               <img
                 src="./assets/assurance_retraite.png"
@@ -33,17 +37,17 @@
               <div
                 class="absolute inset-0 flex flex-col justify-end items-center text-white text-center p-8 bg-gradient-to-t from-black/70 to-transparent"
               >
-                <div class="inline-block p-2 rounded-lg bg-black/5">
-                  
-                </div>
+                <div class="inline-block p-2 rounded-lg bg-black/5"></div>
               </div>
             </div>
 
             <!-- Right side - Form -->
             <div
-              class="bg-white/95 backdrop-blur-sm rounded-xl shadow-xl overflow-hidden border border-white/20 order-1 lg:order-2 lg:col-span-1"
+              class="bg-white/95 backdrop-blur-sm rounded-xl shadow-xl overflow-hidden border border-white/20 order-1 lg:order-2 lg:col-span-1 flex flex-col h-full"
             >
-              <div class="bg-gradient-to-r from-accent to-accent/80 px-6 py-4">
+              <div
+                class="bg-gradient-to-r from-accent to-accent/80 px-6 py-4 flex-shrink-0"
+              >
                 <h3 class="text-xm font-semibold text-white flex items-center">
                   <svg
                     class="w-6 h-6 mr-2"
@@ -61,144 +65,149 @@
                   Complétez ce formulaire pour obtenir une simulation
                 </h3>
               </div>
-              <div class="p-6">
+              <div class="p-6 flex-1 flex flex-col">
                 <form
                   id="simulationForm"
-                  class="space-y-3"
+                  class="space-y-3 flex-1 flex flex-col"
                   onsubmit="return handleFormSubmit(event)"
                 >
                   <!-- Personal Info -->
-                  <div>
-                    <label
-                      for="nom"
-                      class="block text-sm font-medium text-gray-700 mb-1"
-                      >Nom :</label
+                  <div class="flex-1 space-y-3">
+                    <div>
+                      <label
+                        for="nom"
+                        class="block text-sm font-medium text-gray-700 mb-1"
+                        >Nom :</label
+                      >
+                      <input
+                        type="text"
+                        name="nom"
+                        id="nom"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Votre nom..."
+                      />
+                    </div>
+
+                    <div>
+                      <label
+                        for="prenom"
+                        class="block text-sm font-medium text-gray-700 mb-1"
+                        >Prénom :</label
+                      >
+                      <input
+                        type="text"
+                        name="prenom"
+                        id="prenom"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Votre prénom..."
+                      />
+                    </div>
+
+                    <div>
+                      <label
+                        for="brithAt"
+                        class="block text-sm font-medium text-gray-700 mb-1"
+                        >Date de naissance :</label
+                      >
+                      <input
+                        type="date"
+                        name="brithAt"
+                        id="brithAt"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                      />
+                    </div>
+
+                    <div>
+                      <select
+                        name="lastAssure"
+                        aria-label="Montant mensuel à épargner"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                      >
+                        <option value="" selected>
+                          Montant mensuel à épargner :
+                        </option>
+                        <option value="50€">50€</option>
+                        <option value="100€">100€</option>
+                        <option value="150€">150€</option>
+                        <option value="200€">200€</option>
+                        <option value="250€">250€</option>
+                        <option value="300€">300€</option>
+                        <option value="350€">350€</option>
+                        <option value="400€">400€</option>
+                        <option value="450€">450€</option>
+                        <option value="500€">500€</option>
+                      </select>
+                    </div>
+
+                    <div>
+                      <select
+                        name="assure"
+                        aria-label="Age souhaité départ à la retraite"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                      >
+                        <option value="" selected>
+                          Age souhaité départ à la retraite :
+                        </option>
+                        <option value="60">60 ans</option>
+                        <option value="61">61 ans</option>
+                        <option value="62">62 ans</option>
+                        <option value="63">63 ans</option>
+                        <option value="64">64 ans</option>
+                        <option value="65">65 ans</option>
+                      </select>
+                    </div>
+
+                    <div>
+                      <select
+                        name="gender"
+                        aria-label="Civilité"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                      >
+                        <option value="" selected>Civilité :</option>
+                        <option value="1">Mr</option>
+                        <option value="2">Mme</option>
+                      </select>
+                    </div>
+
+                    <!-- Contact Info -->
+                    <div>
+                      <input
+                        type="email"
+                        name="email"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Email..."
+                      />
+                    </div>
+
+                    <div>
+                      <input
+                        type="tel"
+                        name="tele"
+                        pattern="[0-9]{10}"
+                        maxlength="10"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
+                        placeholder="Téléphone..."
+                      />
+                    </div>
+
+                    <!-- Additional Info -->
+
+                    <!-- Retirement Info -->
+
+                    <p
+                      class="text-[10px] text-gray-600 bg-white/80 p-2 rounded-md border border-gray-200"
                     >
-                    <input
-                      type="text"
-                      name="nom"
-                      id="nom"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                      placeholder="Votre nom..."
-                    />
+                      En cliquant sur 'Comparer', vous acceptez de transmettre
+                      vos informations à AKSAM ASSURANCES, qui accepte de les
+                      utiliser conformément à sa politique de confidentialité
+                      dans le but de vous fournir des propositions de devis
+                      d'assurances adapté à votre recherche
+                    </p>
                   </div>
-
-                  <div>
-                    <label
-                      for="prenom"
-                      class="block text-sm font-medium text-gray-700 mb-1"
-                      >Prénom :</label
-                    >
-                    <input
-                      type="text"
-                      name="prenom"
-                      id="prenom"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                      placeholder="Votre prénom..."
-                    />
-                  </div>
-
-                  <div>
-                    <label
-                      for="brithAt"
-                      class="block text-sm font-medium text-gray-700 mb-1"
-                      >Date de naissance :</label
-                    >
-                    <input
-                      type="date"
-                      name="brithAt"
-                      id="brithAt"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                    />
-                  </div>
-
-                  <div>
-                    <select
-                      name="lastAssure"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                    >
-                      <option value="" selected>
-                        Montant mensuel à épargner :
-                      </option>
-                      <option value="50€">50€</option>
-                      <option value="100€">100€</option>
-                      <option value="150€">150€</option>
-                      <option value="200€">200€</option>
-                      <option value="250€">250€</option>
-                      <option value="300€">300€</option>
-                      <option value="350€">350€</option>
-                      <option value="400€">400€</option>
-                      <option value="450€">450€</option>
-                      <option value="500€">500€</option>
-                    </select>
-                  </div>
-
-                  <div>
-                    <select
-                      name="assure"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                    >
-                      <option value="" selected>
-                        Age souhaité départ à la retraite :
-                      </option>
-                      <option value="60">60 ans</option>
-                      <option value="61">61 ans</option>
-                      <option value="62">62 ans</option>
-                      <option value="63">63 ans</option>
-                      <option value="64">64 ans</option>
-                      <option value="65">65 ans</option>
-                    </select>
-                  </div>
-
-                  <div>
-                    <select
-                      name="gender"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                    >
-                      <option value="" selected>Civilité :</option>
-                      <option value="1">Mr</option>
-                      <option value="2">Mme</option>
-                    </select>
-                  </div>
-
-                  <!-- Contact Info -->
-                  <div>
-                    <input
-                      type="email"
-                      name="email"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                      placeholder="Email..."
-                    />
-                  </div>
-
-                  <div>
-                    <input
-                      type="tel"
-                      name="tele"
-                      pattern="[0-9]{10}"
-                      maxlength="10"
-                      class="w-full px-3 py-2 border border-gray-200 rounded-md focus:ring-1 focus:ring-accent focus:border-accent transition-colors duration-200 bg-white/80 text-sm"
-                      placeholder="Téléphone..."
-                    />
-                  </div>
-
-                  <!-- Additional Info -->
-
-                  <!-- Retirement Info -->
-
-                  <p
-                    class="text-[10px] text-gray-600 bg-white/80 p-2 rounded-md border border-gray-200"
-                  >
-                    En cliquant sur 'Comparer', vous acceptez de transmettre vos
-                    informations à AKSAM ASSURANCES, qui accepte de les utiliser
-                    conformément à sa politique de confidentialité dans le but
-                    de vous fournir des propositions de devis d'assurances
-                    adapté à votre recherche
-                  </p>
 
                   <button
-                    type="submit" name="confirmer" id="bt1"
-                    class="w-full bg-gradient-to-r from-accent to-accent/80 text-white font-semibold py-2 px-4 rounded-md transition-all duration-200 shadow-sm hover:shadow-md transform hover:-translate-y-0.5 flex items-center justify-center text-sm"
+                    type="submit"
+                    class="w-full bg-gradient-to-r from-accent to-accent/80 text-white font-semibold py-2 px-4 rounded-md transition-all duration-200 shadow-sm hover:shadow-md transform hover:-translate-y-0.5 flex items-center justify-center text-sm flex-shrink-0"
                   >
                     <svg
                       class="w-4 h-4 mr-2"
