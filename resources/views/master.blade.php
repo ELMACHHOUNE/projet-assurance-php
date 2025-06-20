@@ -169,7 +169,7 @@
           </div>
 
           <!-- Contact Button -->
-          <div class="flex justify-center items-center block sm:hidden w-full">
+          <div class="flex justify-center items-center sm:hidden w-full">
             <a
               href="tel:0182834800"
               class="inline-flex items-center px-6 py-3 border border-transparent text-sm font-medium rounded-full text-white bg-accent hover:bg-accent/90 transition-all duration-200 shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
@@ -190,7 +190,7 @@
               01.82.83.48.00
             </a>
           </div>
-          <div class="flex items-center hidden sm:flex">
+          <div class="items-center hidden sm:flex">
             <a
               href="tel:0182834800"
               class="inline-flex items-center px-6 py-3 border border-transparent text-sm font-medium rounded-full text-white bg-accent hover:bg-accent/90 transition-all duration-200 shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
