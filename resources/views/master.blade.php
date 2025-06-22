@@ -325,7 +325,7 @@
 
 document.addEventListener("DOMContentLoaded", function () {
         const text =
-          "Obtenez votre simulation pour une assurance complementaire retraite en ligne";
+          "Quel que soit votre activité, obtenez un devis d'assurance pour votre flotte en quelques clics";
         const typingText = document.querySelector(".typing-text");
         const cursor = document.querySelector(".typing-cursor");
 
