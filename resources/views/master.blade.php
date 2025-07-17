@@ -12,26 +12,29 @@
       rel="stylesheet"
     />
     <script>
+      // Tailwind CSS config from index.html
       tailwind.config = {
         theme: {
           extend: {
             colors: {
-              primary: "#0A3D2D", // Dark Forest Green
-              secondary: "#2E7D32", // Deep Green
-              accent: "#4CAF50", // Vibrant Green
-              success: "#8BC34A", // Lighter Green
-              warning: "#FFC107", // Amber (retained)
-              danger: "#F44336", // Red (retained)
-              dark: "#001A10", // Very Dark Green
-              light: "#E8F5E9", // Very Light Green
+              primary: "#0A3D2D",
+              secondary: "#2E7D32",
+              accent: "#4CAF50",
+              success: "#8BC34A",
+              warning: "#FFC107",
+              danger: "#F44336",
+              dark: "#001A10",
+              light: "#E8F5E9",
               surface: "#FFFFFF",
-              surfaceHover: "#F1F8E9", // Light Green Tint
+              surfaceHover: "#F1F8E9",
             },
             fontFamily: {
               sans: ["Plus Jakarta Sans", "sans-serif"],
             },
             backgroundImage: {
               "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+              scanlines:
+                "repeating-linear-gradient(to bottom, #0a3d2d, #0a3d2d 1px, #000000 2px)",
             },
           },
         },

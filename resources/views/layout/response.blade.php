@@ -3,6 +3,9 @@
 @extends('master')
 @section('contentresponse')
 
+
+
+
 <section
   id="monsection"
   class="relative bg-scanlines min-h-[calc(100vh-56px)] w-full flex items-center justify-center px-4"
