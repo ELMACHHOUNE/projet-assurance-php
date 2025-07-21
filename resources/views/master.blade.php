@@ -12,7 +12,7 @@
       rel="stylesheet"
     />
     <script>
-       tailwind.config = {
+      tailwind.config = {
         theme: {
           extend: {
             colors: {
@@ -34,6 +34,8 @@
             backgroundImage: {
               "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
             },
+            scanlines:
+              "repeating-linear-gradient(to bottom, #0a3d2d, #0a3d2d 1px, #000000 2px)",
           },
         },
       };
