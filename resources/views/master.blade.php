@@ -306,18 +306,85 @@
 
     <script src="{{ asset('/js/cookiechoices.js') }}"></script>
 
-    <!-- Consent Cookies   -->
+        <!-- Cookie Consent Banner -->
+        <div
+      id="cookieConsentBanner"
+      class="fixed bottom-0 left-0 w-full z-50 hidden"
+    >
+      <div
+        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col md:flex-row items-center justify-between bg-gradient-to-r from-primary/90 to-accent/90 text-white rounded-t-xl shadow-2xl border-t-4 border-accent"
+      >
+        <span
+          class="text-sm md:text-base font-medium flex-1 text-center md:text-left"
+        >
+          Ce site utilise des cookies pour vous offrir la meilleure expérience.
+          En continuant, vous acceptez notre
+          <a href="./layout/politique.html" class="underline hover:text-success"
+            >politique de confidentialité</a
+          >.
+        </span>
+        <div class="flex space-x-4 mt-4 md:mt-0 md:ml-8">
+          <button
+            id="acceptCookies"
+            class="bg-white hover:bg-success/90 text-primary font-semibold py-2 px-4 rounded-lg transition-all duration-200 shadow-md"
+          >
+            J'accepte
+          </button>
+          <a
+            href="#"
+            class="bg-white/20 hover:bg-white/40 text-white font-semibold py-2 px-4 rounded-lg transition-all duration-200 border border-white/30"
+            >En savoir plus</a
+          >
+        </div>
+      </div>
+    </div>
+    <!-- End Cookie Consent Banner -->
+
     <script>
-        document.addEventListener('DOMContentLoaded', function(event) {
-            if (document.cookie.indexOf('aksamPerformance') < 0) {
-                cookieChoices.showCookieConsentBar(
-                    'assurance-flotte-entreprise.aksam-assurances.fr utilise des cookies pour vous offrir le meilleur service. En poursuivant, vous acceptez l\'utilisation des cookies.',
-                    'J\'accepte',
-                    ' En savoir plus ',
-                    ' mentions-legales ',
-                    ' Ouvrir les paramètres ');
-            }
-        });
+      // Cookie Consent Banner Logic
+      function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+          var date = new Date();
+          date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+          expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+      }
+
+      function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(";");
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == " ") c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) == 0)
+            return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+      }
+
+      function showCookieBanner() {
+        var consent = getCookie("siteCookieConsent");
+        if (!consent) {
+          document
+            .getElementById("cookieConsentBanner")
+            .classList.remove("hidden");
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        showCookieBanner();
+        var acceptBtn = document.getElementById("acceptCookies");
+        if (acceptBtn) {
+          acceptBtn.addEventListener("click", function () {
+            setCookie("siteCookieConsent", "accepted", 365);
+            document
+              .getElementById("cookieConsentBanner")
+              .classList.add("hidden");
+          });
+        }
+      });
     </script>
 
     <script src="https://www.google-analytics.com/analytics.js"></script>
